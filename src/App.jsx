@@ -1,9 +1,10 @@
-import Header from "./Components/Header/index";
+import { Header,Footer } from "./Exports/index";
 
 const App = () => {
   return (
   <>
   <Header/>
+  <Footer/>
   </>
   )
 };
